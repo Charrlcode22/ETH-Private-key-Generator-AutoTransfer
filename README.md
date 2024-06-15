@@ -67,7 +67,7 @@ Answer: Just type the private key from the keys.lol in privateethkey.txt, it dep
 
 
 
- MORE RELATED PROJECT WILL COME, Please support by Donation:
+ MORE RELATED PROJECT WILL COME, Please support by Donating:
   
   BTC ADDRESS: bc1q7nlq2ut7ry8568v6tyf6fqxdl2f9avrspk6egu
   ETH ADDRESS: 0x0bFfa88acdDeB1e7c8C24AB3cB3F36Cf4cb4d9ed
