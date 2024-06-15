@@ -62,4 +62,13 @@ Answer: Just type the private key from the keys.lol in privateethkey.txt, it dep
  * The author does not condone or support any illegal or unethical activities.
  * It is the responsibility of the user to ensure compliance with all applicable laws and regulations.
  * The author is not responsible for any misuse or damages caused by the use of this code.
+
  */
+
+
+
+ MORE RELATED PROJECT WILL COME, Please support by Donation:
+  
+  BTC ADDRESS: bc1q7nlq2ut7ry8568v6tyf6fqxdl2f9avrspk6egu
+  ETH ADDRESS: 0x0bFfa88acdDeB1e7c8C24AB3cB3F36Cf4cb4d9ed
+  XRP ADDRESS: rUPaZCaEJ6sJrhNhwTQ5gsWRdDFWbMHafe
