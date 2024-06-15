@@ -32,6 +32,11 @@ HOW TO USE
 7. now click the ETH - Ethereum left side in the list and the 3 dots then transfer private key, Done
 
 
+FAQ: 
+What is the purpose of ETHdecrement.py?
+Answer: The purpose of it so you can make the generation of private key token goes backward or forward, by visiting "https://keys.lol/ethereum/1" EXAMPLE:
+0000000000000000000000000000000000000000000000000000000000000007 decrement mean the last digit goes to 6, increment mean the last digit add up.
+
 
 /**
  * DISCLAIMER:
