@@ -33,9 +33,14 @@ HOW TO USE
 
 
 FAQ: 
-What is the purpose of ETHdecrement.py?
+1. What is the purpose of ETHdecrement.py?
+
 Answer: The purpose of it so you can make the generation of private key token goes backward or forward, by visiting "https://keys.lol/ethereum/1" EXAMPLE:
 0000000000000000000000000000000000000000000000000000000000000007 decrement mean the last digit goes to 6, increment mean the last digit add up.
+
+2. I don't wanna start in default how can I start What ETH private key I want?
+
+Answer: Just type the private key from the keys.lol in privateethkey.txt, it depends to you if you goes decrement or incremennt.
 
 
 /**
