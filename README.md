@@ -1,4 +1,4 @@
-# ETH-Private-key-Generator-AutoTransfer
+# ETH-Private-key-Generator-AutoTransfer-FUND
 The project generates Ethereum Private key to use it to transfer the fund in your wallet automatically
 
 
