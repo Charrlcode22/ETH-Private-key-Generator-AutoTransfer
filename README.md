@@ -2,6 +2,9 @@
 The project generates Ethereum Private key to use it to transfer the fund in your wallet automatically
 
 
+
+
+
 Features
 - Generate an Ethereum Private key token.
 - Automatic checks the Private transfer key token for your wallet.
@@ -16,9 +19,13 @@ Pros
 - The code never ever collect your sensitive data as long as you avoid the fake ones
 - it tells you the transfer private key has less the requirement (amount) of ETH fund transfer using the private key.
 
+
+
 Cons
 - the Ethereum private key has 904625697166532776746648320380374280100293470930272690489102837043110636675 DIGIT on it.
 - It probably cost you some electric bill for waiting (let's be real in here).
+
+
 
 
 
@@ -32,6 +39,9 @@ HOW TO USE
 7. now click the ETH - Ethereum left side in the list and the 3 dots then transfer private key, Done
 
 
+
+
+
 FAQ: 
 1. What is the purpose of ETHdecrement.py?
 
@@ -41,6 +51,9 @@ Answer: The purpose of it so you can make the generation of private key token go
 2. I don't wanna start in default how can I start What ETH private key I want?
 
 Answer: Just type the private key from the keys.lol in privateethkey.txt, it depends to you if you goes decrement or incremennt.
+
+
+
 
 
 /**
