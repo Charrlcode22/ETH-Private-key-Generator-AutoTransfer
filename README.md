@@ -7,7 +7,7 @@ Features
 - Automatic checks the Private transfer key token for your wallet.
 - Generate unlimited Etherium private key based on (decrement - or increment +).
 - Easy to use (even 1 year old can do this).
-- When you stopped the code, it saved some checkpoint to continue your last private key typed/inputted/checked in trasnfering fund.
+- When you stopped the code, it saved some checkpoint to continue your last private key typed/inputted/checked in transferring fund.
 
 
 Pros
