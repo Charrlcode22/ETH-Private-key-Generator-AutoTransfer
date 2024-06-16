@@ -30,7 +30,7 @@ Cons
 
 
 HOW TO USE
-1. Download the code
+1. Download the code also you should have Google Chrome installed
 2. Download "VS code"
 3. Open the folder directory usinng "VS CODE"
 4. Install the following using VS code terminal "npm install puppeteer" AFTER
